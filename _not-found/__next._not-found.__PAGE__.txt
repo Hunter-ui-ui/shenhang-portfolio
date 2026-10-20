@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/app/layout-d5885704fec74a8d.js"
+4:I[4029,["500","$2","177","$3"],"Navigation"]
+5:I[7121,[],""]
+6:I[4581,[],""]
+7:"static/chunks/320-f6109549d7b2fdd1.js"
+8:"static/chunks/437-1b6ae13438aed2a1.js"
+9:"static/chunks/app/page-778719a682120372.js"
+a:I[8500,["500","$2","320","$7","437","$8","974","$9"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[484,[],"$15"]
+17:"MetadataBoundary"
+18:I[484,[],"$17"]
+19:I[6869,[],"IconMark"]
+:HL["/shenhang-portfolio/_next/static/css/0aac0aff98122579.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"inner-hero","children":[["$","p",null,{"className":"eyebrow","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":["A little",["$","br",null,{}],"off-script."]}],["$","p",null,{"children":"This page isn’t here. Let’s get you back to the work."}],["$","$La",null,{"className":"text-link","href":"/#work","children":"Explore selected work ↗"}]]}],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+d:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/shenhang-portfolio/_next/static/css/0aac0aff98122579.css","precedence":"next"}]],["$","html",null,{"lang":"en-GB","children":["$","body",null,{"id":"top","children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","div",null,{"className":"page-enter","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","section",null,{"className":"inner-hero","children":[["$","p",null,{"className":"eyebrow","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":["A little",["$","br",null,{}],"off-script."]}],["$","p",null,{"children":"This page isn’t here. Let’s get you back to the work."}],["$","$La",null,{"className":"text-link","href":"/#work","children":"Explore selected work ↗"}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"footer-top","children":[["$","p",null,{"className":"eyebrow","children":"GOOD WORK STARTS WITH A CONVERSATION."}],["$","$La",null,{"href":"/contact","className":"footer-cta","children":["Let’s make",["$","br",null,{}],"something matter.",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-up-right","aria-hidden":"true","children":[["$","path","1tivn9",{"d":"M7 7h10v10"}],["$","path","1vkiza",{"d":"M7 17 17 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","$La",null,{"href":"/","children":["© ",2026," Shenhang Lou"]}],["$","span",null,{"children":"Bristol, United Kingdom"}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:Hunter111596@outlook.com","children":["Email ",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-up-right","children":[["$","path","1tivn9",{"d":"M7 7h10v10"}],["$","path","1vkiza",{"d":"M7 17 17 7"}],"$undefined"]}]]}],["$","a",null,{"href":"https://www.linkedin.com/in/HunterLOU","target":"_blank","rel":"noopener noreferrer","children":["LinkedIn ",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-up-right","children":[["$","path","1tivn9",{"d":"M7 7h10v10"}],["$","path","1vkiza",{"d":"M7 17 17 7"}],"$undefined"]}]]}],["$","a",null,{"href":"#top","children":"Back to top ↑"}]]}]]}]]}]]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shenhang Lou — Marketing, design & moving images"}],["$","meta","1",{"name":"description","content":"The creative portfolio of Shenhang Lou (Hunter), a Bristol-based marketing postgraduate with a background in media design. Explore branding, digital design and film."}],["$","meta","2",{"property":"og:title","content":"Shenhang Lou — Ideas made visible."}],["$","meta","3",{"property":"og:description","content":"Marketing, design & moving images. A creative portfolio from Bristol, UK."}],["$","meta","4",{"property":"og:site_name","content":"Shenhang Lou"}],["$","meta","5",{"property":"og:locale","content":"en_GB"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Shenhang Lou — Ideas made visible."}],["$","meta","9",{"name":"twitter:description","content":"Marketing, design & moving images. A creative portfolio from Bristol, UK."}],["$","link","10",{"rel":"icon","href":"/shenhang-portfolio/icon.svg?dd0b836f684dca15","type":"image/svg+xml","sizes":"any"}],["$","$L19","11",{}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"q-nCdGxJSGVOyAUWj2wKF"}
+13:null
+c:300
+1c:true
+c:C
+1b:0
+e:"$undefined"
+b:"$undefined"
+1a:"$undefined"
+14:"$undefined"
